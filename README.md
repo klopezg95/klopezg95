@@ -1,4 +1,11 @@
 # Hi there 👋
-I'm Kevin Lopez from miami - USA and i do front-end Development, I really enjoy learning languages and frameworks like React
+I'm Kevin Lopez from miami - USA and i do front-end Development, I really enjoy learning languages and frameworks like React.
+Also i'm Innovative Front End Developer known for high productivity and efficient task
+completion. Possess specialized skills in JavaScript, React, and CSS, enabling
+the creation of visually appealing and user-friendly websites. Excellent in
+problem-solving, teamwork, and communication, leveraging these soft skills to
+effectively collaborate with cross-functional teams and ensure project
+success.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klopezg95)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klopezg95)](https://github.com/anuraghazra/github-readme-stats)
