@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Lopez</h1>
 <h3 align="center">A passionate frontend developer from colombia living in United states</h3>
 
-- 🔭 I’m currently working on [NetFlixClone](https://github.com/klopezg95/RoomFlow)
+- 🔭 I’m currently working on [RoomFlow](https://github.com/klopezg95/RoomFlow)
 
 - 🌱 I’m currently learning **Typescript**
 
